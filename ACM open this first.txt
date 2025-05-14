@@ -1,0 +1,11 @@
+Steps to run my code:
+
+Well, its bad i know i tried react shadcn for frontend and express node for backend.
+
+To run front end:
+# cd to ironman director and then do npm run dev
+
+To run back end:
+# cd to ironman directory and then cd to backend directory and then type node server.js in another terminal
+
+now you have the frontend and backend in two separate terminals, you should see the app in your localhost, but i know mostly it will fail cause node is such a pain so i have attached the photos of my webpage so i can get pity marks hehehe.
